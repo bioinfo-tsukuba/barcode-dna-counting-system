@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="aboutDialogueID" prefHeight="600.0" prefWidth="700.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml/1" fx:controller="barcode.AboutDialogue">
+   <children>
+      <Label fx:id="aboutLabelID" layoutX="157.0" layoutY="67.0" AnchorPane.leftAnchor="30.0" AnchorPane.rightAnchor="30.0" AnchorPane.topAnchor="30.0" />
+      <Label layoutX="37.0" layoutY="76.0" text="Copyright 2019 National Institute of Advanced Industrial Science and Technology (AIST)" AnchorPane.leftAnchor="30.0" AnchorPane.rightAnchor="30.0" AnchorPane.topAnchor="50.0" />
+      <Label layoutX="54.0" layoutY="93.0" text="[Open source licenses]" AnchorPane.leftAnchor="30.0" AnchorPane.rightAnchor="30.0" AnchorPane.topAnchor="90.0" />
+      <ListView fx:id="aboutListID" layoutX="37.0" layoutY="113.0" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="80.0" AnchorPane.leftAnchor="30.0" AnchorPane.rightAnchor="30.0" AnchorPane.topAnchor="110.0" />
+      <Button layoutX="353.0" layoutY="327.0" mnemonicParsing="false" onAction="#okAction" prefWidth="80.0" text="OK" AnchorPane.bottomAnchor="30.0" AnchorPane.rightAnchor="30.0" />
+   </children>
+</AnchorPane>

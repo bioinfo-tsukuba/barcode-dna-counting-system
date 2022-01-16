@@ -1,0 +1,25 @@
+.root {
+    -fx-font-size: 13px;
+    -fx-font-family: serif;
+}
+
+.label, .button {
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-border-color:black;
+    -fx-border-width: 0 2 2 0;
+}
+
+#menuFileID, #menuHelpID {
+    -fx-font-size: 12px;
+    -fx-font-family: cursive;
+    -fx-font-weight: normal;
+}
+
+#removeBasesID, #maxMismatchesID, #collectMismatchesID {
+    -fx-font-size: 16px;
+    -fx-font-style: italic;
+}
