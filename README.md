@@ -3,6 +3,7 @@
 ## Prerequisite
 
 - This system works only on Windows.
+- The program depends on Liberica JDK, MSYS2, BLAST+, and Strawberry Perl.
 
 ## Usage
 
