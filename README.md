@@ -62,6 +62,25 @@
 17. Clear
     - Clear the message
 
+### File menu
+
+![image](https://user-images.githubusercontent.com/2063184/149746000-bfe988ec-365c-4a60-a68f-4dbcad73d0c0.png)
+
+1. Import configuration file
+2. Export configuration file
+3. Close
+
+### Output format
+
+![image](https://user-images.githubusercontent.com/2063184/149746116-9b4310d2-be5b-4f5d-9715-1a9edc0a9d28.png)
+
+![image](https://user-images.githubusercontent.com/2063184/149746428-ffc78e87-eb86-4e02-a6d0-98ec235c0208.png)
+
+
+- The date is appended to the file name.
+-  If a file with the same name exists, a sequential number `_#` is added to the file name.
+
+
 
 
 ## Citation
