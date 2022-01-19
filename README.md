@@ -5,6 +5,11 @@
 - This system works only on Windows.
 - The program depends on Liberica JDK, MSYS2, BLAST+, and Strawberry Perl.
 
+## Set-up
+
+1. Download this repository.
+2. Download [Tools.zip](https://www.dropbox.com/s/m5xitg36gtnivai/Tools.zip?dl=0), decompress it, and locate the 'Tools' directory into `barcodeDNA/`.
+
 ## Usage
 
 ### Start-up
